@@ -5,11 +5,7 @@
   "projects": {
     "progress-chart": {
       "projectType": "application",
-      "schematics": {
-        "@schematics/angular:application": {
-          "strict": true
-        }
-      },
+      "schematics": {},
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
@@ -27,8 +23,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "src/demo-styling.css"
+              "src/styles.css"
             ],
             "scripts": []
           },
@@ -102,6 +97,5 @@
         }
       }
     }
-  },
-  "defaultProject": "progress-chart"
+  }
 }
