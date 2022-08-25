@@ -1,4 +1,5 @@
 # Angular on Netlify Quick Start Template    
+## [Chart.js](https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/)
 ![netlify + angular logo](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1646339469/angular_wzrs5o.png)
 
 This is a bare-bones Angular project that has everything you need to quickly deploy it to [Netlify](https://netlify.com). 
@@ -9,16 +10,19 @@ Click this button and it will help you create a new repo, create a new Netlify p
 
 ## Table of Contents:
 
-- [Setup](#setup)
-- [Deploying](#deploying)
-- [Styling](#styling)
-  - [Notes on Styling](#notes-on-styling)
+- [Angular on Netlify Quick Start Template](#angular-on-netlify-quick-start-template)
+  - [Chart.js](#chartjs)
+  - [Table of Contents:](#table-of-contents)
+  - [Setup](#setup)
+  - [Deploying](#deploying)
+  - [Styling](#styling)
+    - [Notes on Styling](#notes-on-styling)
   - [Remove Styling](#remove-styling)
-- [Testing](#testing)
-  - [Included Default Testing](#included-default-testing)
-  - [Removing Renovate](#removing-renovate)
-  - [Removing Cypress](#removing-cypress)
-- [Angular + Netlify Resources](#angular--netlify-resources)
+  - [Testing](#testing)
+    - [Included Default Testing](#included-default-testing)
+    - [Removing Renovate](#removing-renovate)
+    - [Removing Cypress](#removing-cypress)
+  - [Angular + Netlify Resources](#angular--netlify-resources)
 
 ## Setup
 
